@@ -13,11 +13,9 @@ public class Hostels {
 	//GET method, should return the list of all hostels as JSON
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)
-	public String displayHostelsJSON(@QueryParam("name") String name){
-		if(!name.isEmpty()){
-			
-		}
-		String resource = null;
+	public String displayHostelsJSON(){
+
+		String resource = "{'test'}";
 		return resource;
 	}
 	//GET simple method to catch HTML access
