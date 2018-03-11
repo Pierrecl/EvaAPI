@@ -1,0 +1,16 @@
+- GANTT :  à rajouter dans les specs techniques -> Pierre/Rochelle ?
+- Préciser plus de détail sur les normes AFNOR et la nouvelle réglementation 2018 sur les avis dans le cahier des charges -> Alexandre
+- Scenarii pour les hoteliers et les indépendants -> Equipe, et rédaction Alexandre
+- Sécurité : plutôt à préciser dans les specs techniques; dans le CdC, juste faire une mention -> Pierre/Rochelle ?
+- Préciser les cas d'utilisations CdC-> Alexandre
+- Détails de l'implementation des cas d'utilisations à mettre dans les specs techniques -> Pierre/Rochelle ?
+- Planning : rajouter le jalon T0 qui correspond à la date réelle de début des travaux dans le MS Project. -> Rochelle
+- Planning : si possible, rajouter les périodes de garanties -> Rochelle
+- Planning : détailler les tâches dans le MS Project -> Equipe, puis modifs MS Project : Rochelle
+- Présentation : rajouter les slides de démos dans le PPT. -> Equipe
+- Présentation : rajouter la matrice des risques, et les risques -> Equipe
+- Créer une courbe de coûts : avec le budget max à ne pas dépasser, les coûts prévisionnels et la dépense effective -> Equipe
+- Faire une versionning des modifications MOA/MOE -> Equipe
+- Cahier des charges / Specs techniques : préciser la compatibilité des versions pour les différents outils/langages/applications -> Equipe
+- Specs techniques : prérimètre du lot de réalisation -> Equipe
+- Présentation : rappel du lot de réalisation -> Equipe.
