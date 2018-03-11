@@ -1,0 +1,39 @@
+Hotel
+id (not null) INT,
+nom (not null) STRING,
+adresse (not null) STRING,
+ville (not null) STRING,
+code postal (not null) INT,
+latitude DOUBLE,
+longitude DOUBLE,
+description STRING,
+image STRING
+
+--------------------------------------
+User
+id (not null) INT,
+nom (not null) STRING,
+prenom (not null) STRING,
+courriel STRING,
+telephone STRING,
+autres STIRNG,
+paiement STRING
+
+--------------------------------------
+Avis
+id (not null) INT,
+description (not null) STRING,
+date (not null) STRING,
+user (not null) INT
+
+--------------------------------------
+Events
+id (not null) INT,
+nom (not null) STRING,
+adresse (not null) STRING,
+ville (not null) STRING,
+code postal (not null) INT,
+latitude DOUBLE,
+longitude DOUBLE,
+description STRING,
+image STRING
