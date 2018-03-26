@@ -26,7 +26,16 @@ description (not null) STRING,
 date (not null) STRING,
 user (not null) INT
 rate (not null) INT
+
 --------------------------------------
+Avis_link
+id (not null) INT,
+user_id (not null) INT
+avis_id (not null) INT
+hostel_id (not null) INT
+valid (not null) BOOLEAN
+--------------------------------------
+
 Events
 id (not null) INT,
 nom (not null) STRING,
