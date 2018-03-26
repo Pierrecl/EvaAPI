@@ -25,7 +25,7 @@ id (not null) INT,
 description (not null) STRING,
 date (not null) STRING,
 user (not null) INT
-
+rate (not null) INT
 --------------------------------------
 Events
 id (not null) INT,
